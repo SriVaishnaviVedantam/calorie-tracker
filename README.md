@@ -28,7 +28,7 @@ Make sure you have installed:
 1️⃣ Clone this repository:
 ```bash
 git clone https://github.com/SriVaishnaviVedantam/calorie-tracker.git
-cd calorie-tracker
+cd calorie-tracker```
 
 2️⃣ Create and activate a virtual environment:
 python -m venv venv
