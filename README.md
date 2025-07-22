@@ -31,21 +31,35 @@ git clone https://github.com/SriVaishnaviVedantam/calorie-tracker.git
 cd calorie-tracker```
 
 2️⃣ Create and activate a virtual environment:
+```bash
 python -m venv venv
 venv\Scripts\activate    # On Windows
+```
 # OR
+```bash
 source venv/bin/activate # On Linux/Mac
+```
 
 3️⃣ Install dependencies:
+```bash
 pip install -r requirements.txt
+```
 If you don't have requirements.txt, you can manually install Django:
+```bash
 pip install django
+```
 
 4️⃣ Run database migrations:
+```bash
 python manage.py migrate
+```
 
 5️⃣ Run the development server:
+```bash
 python manage.py runserver
+```
 
 6️⃣ Open your browser and visit:
+```bash
 http://127.0.0.1:8000/
+```
