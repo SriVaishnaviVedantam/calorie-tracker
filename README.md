@@ -30,14 +30,13 @@ Make sure you have installed:
 git clone https://github.com/SriVaishnaviVedantam/calorie-tracker.git
 cd calorie-tracker```
 
+
+
 2️⃣ Create and activate a virtual environment:
+On **Windows**:
 ```bash
 python -m venv venv
-venv\Scripts\activate    # On Windows
-```
-# OR
-```bash
-source venv/bin/activate # On Linux/Mac
+venv\Scripts\activate
 ```
 
 3️⃣ Install dependencies:
